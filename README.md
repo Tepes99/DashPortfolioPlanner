@@ -2,6 +2,8 @@
  
 My first project on GitHub!
 
+Demo at https://portfolioplanner.herokuapp.com/
+
 Portfolio Planner is Dash App for creating projections of custom portfolios with illustrative charts and info spreadsheet.
 It uses the Capital Asset Pricing Model, yahoo finance API and log-normal distribution to make it's projections and gives 
 user the freedom of choice for confidence level and projection length.
